@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrispyFishnuts
-- 👀 I’m interested in programming discord bots.
+- 👀 I’m interested in expanding my general knowledge in coding.
 - 🌱 I’m currently learning python.
-- 📫 How to reach me: Kristen#5597 on disord.
+- 📫 How to reach me: krishnа#2510 on disord.
 
 <!---
 KrispyFishnuts/KrispyFishnuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
